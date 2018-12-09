@@ -1,2 +1,2 @@
 # C-Gardener
-Crypto Gardening game 
+Crypto Gardening game source code
